@@ -1,4 +1,4 @@
-FROM 		nuancemobility/ubuntu-base:14.04
+FROM 		nuancemobility/ubuntu-base:16.10
 MAINTAINER 	Brice Argenson <brice.argenson@nuance.com>
 
 # Install Sensu
